@@ -2,6 +2,12 @@
 
 Este ejercicio detalla los pasos necesarios para configurar y evolucionar el uso de React Router en una aplicación React, desde una configuración básica hasta una estructura más dinámica utilizando un archivo de rutas.
 
+Usamos Node.js v18.17.0 y npm v9.8.0.
+Las librerías instaladas son:
+
+- React v18.3.1
+- React Router Dom v7.1.3
+
 ## **1. Instalar React Router Dom**
 
 Ejecuta el siguiente comando para instalar React Router Dom en tu proyecto:
