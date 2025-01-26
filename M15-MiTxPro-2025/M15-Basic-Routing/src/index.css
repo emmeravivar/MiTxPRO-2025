@@ -45,7 +45,6 @@ li {
 }
 
 li:hover {
-  color: azure;
   background-color: #427F8C;
   transition: all 1s;
   color: #BDE3F2;
