@@ -1,9 +1,16 @@
 .footer {
-    background: #4EBF8B;
+    background: #011C26;
   position: absolute;
   bottom: 0;
   width: 100%;
   font-size: 1rem;
   padding: 2rem;
-  color:#0D0D0D
+  color:#427F8C;
+  font-weight: bold;
+}
+
+.header {
+   font-size: 1rem;
+  padding: 2rem;
+  font-weight: bold;
 }

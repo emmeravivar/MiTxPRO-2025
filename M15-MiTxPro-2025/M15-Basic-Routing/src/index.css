@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  background-color: #0D0D0D;
+  background-color: #011C26;
 
 }
 
@@ -23,7 +23,7 @@ main {
 h1 {
   font-size: 3rem;
   font-weight: bold;
-  color: #4EBF8B;
+  color: #BDE3F2;
 }
 
 ul {
@@ -35,18 +35,20 @@ li {
   list-style: none;
   font-size: 1rem;
   text-transform: uppercase;
-  background-color: #097341;
+  border-bottom: 1px solid #427F8C;
   color: whitesmoke;
   width: 250px;
   margin: 1rem;
   padding: 1rem;
   font-weight: 900;
+  color: #427F8C;
 }
 
 li:hover {
   color: azure;
-  background-color: #1FBF64;
+  background-color: #427F8C;
   transition: all 1s;
+  color: #BDE3F2;
 }
 
 a {
